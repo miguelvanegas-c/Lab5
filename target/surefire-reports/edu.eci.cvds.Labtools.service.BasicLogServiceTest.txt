@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.eci.cvds.Labtools.service.BasicLogServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.790 s -- in edu.eci.cvds.Labtools.service.BasicLogServiceTest
